@@ -33,10 +33,6 @@
         <td>${videojuego.ventas()}</td>
       </tr>
       <tr>
-        <th>Ventas</th>
-        <td>${videojuego.ventas()}</td>
-      </tr>
-      <tr>
         <th>Portada</th>
         <td>${videojuego.portada()}</td>
       </tr>
