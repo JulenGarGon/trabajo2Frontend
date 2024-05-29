@@ -1,2 +1,11 @@
 /Users/Julen/Desktop/UPSA/3º Informática/DASI/Trabajo II/trabajo2/www/src/main/java/es/upsa/dasi/www/adapters/input/controllers/VideojuegosController.java
+/Users/Julen/Desktop/UPSA/3º Informática/DASI/Trabajo II/trabajo2/www/src/main/java/es/upsa/dasi/www/domain/impl/RepositoryImpl.java
+/Users/Julen/Desktop/UPSA/3º Informática/DASI/Trabajo II/trabajo2/www/src/main/java/es/upsa/dasi/www/application/impl/FindVideojuegoByIdUseCaseImpl.java
+/Users/Julen/Desktop/UPSA/3º Informática/DASI/Trabajo II/trabajo2/www/src/main/java/es/upsa/dasi/www/domain/Repository.java
+/Users/Julen/Desktop/UPSA/3º Informática/DASI/Trabajo II/trabajo2/www/src/main/java/es/upsa/dasi/www/application/FindVideojuegoByIdUseCase.java
+/Users/Julen/Desktop/UPSA/3º Informática/DASI/Trabajo II/trabajo2/www/src/main/java/es/upsa/dasi/www/infraestructure/ws/dtos/ErrorDto.java
+/Users/Julen/Desktop/UPSA/3º Informática/DASI/Trabajo II/trabajo2/www/src/main/java/es/upsa/dasi/www/application/FindVideojuegosUseCase.java
+/Users/Julen/Desktop/UPSA/3º Informática/DASI/Trabajo II/trabajo2/www/src/main/java/es/upsa/dasi/www/adapters/output/daos/Dao.java
+/Users/Julen/Desktop/UPSA/3º Informática/DASI/Trabajo II/trabajo2/www/src/main/java/es/upsa/dasi/www/application/impl/FindVideojuegosUseCaseImpl.java
 /Users/Julen/Desktop/UPSA/3º Informática/DASI/Trabajo II/trabajo2/www/src/main/java/es/upsa/dasi/www/infraestructure/VideojuegosApplication.java
+/Users/Julen/Desktop/UPSA/3º Informática/DASI/Trabajo II/trabajo2/www/src/main/java/es/upsa/dasi/www/infraestructure/ws/GatewayDao.java

@@ -22,9 +22,10 @@
         </thead>
         <tbody>
             <c:forEach var="videojuego" items="${videojuegos}">
+                <c:set var="urlGetVideojuegoById" value="${mvc.uri('getVideojuegoById', {'idVideojuego' : videojuego.id()})}"/>
                 <tr>
                     <td>${videojuego.id()}</td>
-                    <td>${videojuego.nombre()}</td>
+                    <td><a href="${urlGetVideojuegoById}">${videojuego.nombre()}</a></td>
                     <td>${videojuego.estreno()}</td>
                 </tr>
             </c:forEach>

@@ -1,2 +1,13 @@
+es/upsa/dasi/www/infraestructure/ws/GatewayDao$2.class
 es/upsa/dasi/www/adapters/input/controllers/VideojuegosController.class
+es/upsa/dasi/www/domain/Repository.class
+es/upsa/dasi/www/infraestructure/ws/dtos/ErrorDto.class
+es/upsa/dasi/www/adapters/output/daos/Dao.class
+es/upsa/dasi/www/infraestructure/ws/GatewayDao$1.class
+es/upsa/dasi/www/application/FindVideojuegoByIdUseCase.class
+es/upsa/dasi/www/infraestructure/ws/GatewayDao.class
+es/upsa/dasi/www/application/FindVideojuegosUseCase.class
+es/upsa/dasi/www/application/impl/FindVideojuegosUseCaseImpl.class
+es/upsa/dasi/www/domain/impl/RepositoryImpl.class
 es/upsa/dasi/www/infraestructure/VideojuegosApplication.class
+es/upsa/dasi/www/application/impl/FindVideojuegoByIdUseCaseImpl.class
