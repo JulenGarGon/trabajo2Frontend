@@ -115,7 +115,7 @@ public class DesarrolladoresController {
     @POST
     @Controller
     @UriRef("insertDesarrollador")
-    public Response updateDesarrolladorById(@Valid @BeanParam DesarrolladorForm form
+    public Response insertDesarrolladorById(@Valid @BeanParam DesarrolladorForm form
     ) throws AppException {
 
         Desarrollador desarrollador = Desarrollador.builder()
