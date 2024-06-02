@@ -103,7 +103,7 @@ public class DesarrolladoresController {
     @Path("/{idDesarrollador}")
     @Controller
     @UriRef("deleteDesarrolladorById")
-    public Response updateDesarrolladorById(@PathParam("idDesarrollador")  int idDesarrollador) throws AppException {
+    public Response deleteDesarrolladorById(@PathParam("idDesarrollador")  int idDesarrollador) throws AppException {
 
         deleteDesarrolladorByIdUseCase.execute(idDesarrollador);
         return Response.status(Response.Status.SEE_OTHER)
